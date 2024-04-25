@@ -1,0 +1,1 @@
+It is suggested to have a mysql database in your system to run this code. Also it is required to make a database named 'registration' and a table named 'usertable'
