@@ -5,3 +5,5 @@ It is a simple authentication application made using Java Server Pages(JSP) with
 It allows users to Sign Up i.e. create a new account.
 It allows users to LogIn to the system if they already have an existing account.
 After successful login or signup, it allows users to move to a secured page.
+
+It is suggested to have a mysql database in your system to run this code. Also it is required to make a database named 'registration' and a table named 'usertable'
